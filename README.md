@@ -2,7 +2,7 @@
 
 ## YouTube
 
-[!["【Cloudflare Workers】Bun+HonoでREST APIの作成　使えるhonoルーティングのテクニックを紹介！！"](https://i.ytimg.com/vi/21FEPVYR7Vg/maxresdefault.jpg)](https://youtu.be/21FEPVYR7Vg)
+[!["【Cloudflare Workers】Bun+HonoでREST APIの作成　使えるhonoルーティングのテクニックを紹介！！"](https://i.ytimg.com/vi/jaYkXW8II-k/maxresdefault.jpg)](https://youtu.be/jaYkXW8II-k)
 
 ## 技術選定
 
