@@ -1,0 +1,8 @@
+name = "stock-trade-api"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stock-trade-db"
+database_id = "<unique-ID-for-your-database>"
+migrations_dir = "drizzle/migrations"
