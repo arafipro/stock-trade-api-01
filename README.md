@@ -1,8 +1,8 @@
-# 【Cloudflare Workers】Bun+HonoでREST APIの作成　使えるhonoルーティングのテクニックを紹介！！
+# 【Cloudflare Workers】Bun+HonoでREST APIを作成① 効果的なhonoルーティングの秘訣
 
 ## YouTube
 
-[!["【Cloudflare Workers】Bun+HonoでREST APIの作成　使えるhonoルーティングのテクニックを紹介！！"](https://i.ytimg.com/vi/jaYkXW8II-k/maxresdefault.jpg)](https://youtu.be/jaYkXW8II-k)
+[!["【Cloudflare Workers】Bun+HonoでREST APIを作成① 効果的なhonoルーティングの秘訣"](https://i.ytimg.com/vi/jaYkXW8II-k/maxresdefault.jpg)](https://youtu.be/jaYkXW8II-k)
 
 ## 技術選定
 
